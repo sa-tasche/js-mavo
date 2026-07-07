@@ -21,8 +21,8 @@
   },
   "homepage": "https://mavo.io",
   "devDependencies": {
-    "@babel/core": "^7",
-    "@babel/preset-env": "^7",
+    "@babel/core": "^8",
+    "@babel/preset-env": "^8",
     "eslint": "^8",
     "gulp": "^5",
     "gulp-autoprefixer": "^8",
